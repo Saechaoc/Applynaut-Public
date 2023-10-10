@@ -1,0 +1,10 @@
+# These are the standard library modules you're using
+time
+math
+random
+json
+
+# These are external packages
+selenium
+webdriver-manager
+selenium-stealth
